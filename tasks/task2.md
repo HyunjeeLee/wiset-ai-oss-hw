@@ -11,9 +11,9 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
 
 자신의 username이 적힌 그림 파일이 하단에 보여야 합니다.
 
-!(https://github.com/HyunjeeLee/wiset-ai-oss-hw/blob/master/resources/%EA%B3%BC%EC%A0%9C2%20%EC%9D%B8%EC%A6%9D%EC%83%B71.png)
+![](https://github.com/HyunjeeLee/wiset-ai-oss-hw/blob/master/resources/%EA%B3%BC%EC%A0%9C2%20%EC%9D%B8%EC%A6%9D%EC%83%B71.png)
 
-!(https://github.com/HyunjeeLee/wiset-ai-oss-hw/blob/master/resources/%EA%B3%BC%EC%A0%9C2%20%EC%9D%B8%EC%A6%9D%EC%83%B72.png)
+![](https://github.com/HyunjeeLee/wiset-ai-oss-hw/blob/master/resources/%EA%B3%BC%EC%A0%9C2%20%EC%9D%B8%EC%A6%9D%EC%83%B72.png)
 ## 응원의 말
 
 여기 있는 명령어를 모두 외우지 않아도 괜찮습니다. git으로 어떤 작업을 할 수 있는지 정도만 알아 두었다가, 필요할 때 다시 Learn Git Branching 사이트로 돌아와 가상 환경에서 실습한 후 실무에 적용하는 개발자들이 많습니다. 겁먹지 마세요!
